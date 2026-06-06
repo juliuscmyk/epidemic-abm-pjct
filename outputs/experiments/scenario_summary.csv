@@ -1,0 +1,5 @@
+scenario,runs,mean_peak_infected,mean_peak_step,mean_attack_rate_percent,parameter_change
+baseline,6,75.8,28.0,89.6,0% distancing compliance
+moderate_distancing,6,47.2,35.2,71.8,45% distancing compliance
+high_distancing,6,27.2,30.2,45.6,80% distancing compliance
+high_transmission,6,64.8,29.0,82.0,"45% distancing, infection probability 0.34"

@@ -1,0 +1,8 @@
+task mode: create
+primary deck-profile: engineering-platform
+secondary profile gates: short academic project defense, readable at classroom distance
+required proof objects: ABM workflow, agent/environment design, experiment matrix, verified result metrics, limitations
+source/asset requirements: use project outputs and model rules only; no unverified external metrics
+brand authenticity constraints: no institutional logos supplied
+profile-specific QA gates: precise rule labels, diagram arrows attached, readable result metrics, editable PPTX
+known missing inputs: presenter name and course section
